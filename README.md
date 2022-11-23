@@ -1,6 +1,5 @@
-### Hi there 👋, my name is **Khorshed Alam**
-#### I am **Web Developer**
-![I am **Web Developer**]
+## Hi there 👋, my name is **Khorshed Alam**
+### I am **Web Developer**
 
 **I love to learn computer programming**
 
