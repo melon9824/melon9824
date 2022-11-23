@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is **Khorshed Alam**
 #### I am **Web Developer**
-![I am **Web Developer**](https://scontent.fdac11-1.fna.fbcdn.net/v/t39.30808-6/216663839_1469318240086711_5988188824174942773_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=GLr6Od0wfZkAX-coIsu&_nc_ht=scontent.fdac11-1.fna&oh=00_AfAe2ZUQUh1He8Wxy-eRjyWxv4wooji4zrE9BxiB41bwQw&oe=63836A13)
+![I am **Web Developer**]
 
 **I love to learn computer programming**
 
